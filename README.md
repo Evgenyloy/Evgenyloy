@@ -5,41 +5,89 @@
 <h1 align="center">Привет👋 Меня зовут Евгений!</h1>
 <br/>
 <br/>
+
+
+
+
+###
+
+
+
+<h3 align="center">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="center">Я начинающий Frontend разработчик.</p>
 <br/>
 <br/>
-<br/>
 
 
 
-###
 
 
 
-<h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик.</p>
+<h3 align="center"> Технологии:</h3>
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"  height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
+
 </div>
+<br/>
+<br/>
 
 ###
 
+<h3 align="center"> Инструменты:</h3>
+
+
+###
+
+<div align="center">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="40" alt="Git" />
+ <img width="12" />
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" height="40" alt="VS Code" />
+ <img width="12" />
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" height="40" alt="Sass" />
+ <img width="12" />
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="40" alt="Figma" />
+ <img width="12" />
+</div>
+<br/>
+<br/>
+
+
+###
+
+<h3 align="center">как со мной связатья:</h3> 
+<div align="center">
+<a href="https://github.com/evgenyloy" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/evgenyloy" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+<br/>
+<br/>
+
+
+
+###
 <h3 align="left">🔥   Моя статистика :</h3>
 
 ###
@@ -50,9 +98,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evgenyloy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evgenyloy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
