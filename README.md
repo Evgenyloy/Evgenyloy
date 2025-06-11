@@ -51,28 +51,6 @@
 
 
 
-###
-
-<h3 align="center">как со мной связатья:</h3> 
-<div align="center">
-<a href="https://github.com/evgenyloy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/evgenyloy" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>
-<br/>
-
-
-
-###
-<h3 align="left">🔥   Моя статистика :</h3>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=evgenyloy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
