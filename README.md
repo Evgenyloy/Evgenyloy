@@ -49,25 +49,6 @@
 <br/>
 <br/>
 
-###
-
-<h3 align="center"> Инструменты:</h3>
-
-
-###
-
-<div align="center">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="40" alt="Git" />
- <img width="12" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" height="40" alt="VS Code" />
- <img width="12" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" height="40" alt="Sass" />
- <img width="12" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="40" alt="Figma" />
- <img width="12" />
-</div>
-<br/>
-<br/>
 
 
 ###
